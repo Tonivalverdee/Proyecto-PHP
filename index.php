@@ -11,9 +11,9 @@
 <body>
     <h1 class="text-general">Elija una de las siguientes APIs</h1>
     <br>
-    <a target="_blank" href="./Proyecto-NextMFilm/index.php"><button type="button" class="btn btn-info">Siguiente película de Marvel</button></a>
-    <a target="_blank" href="./Proyecto-2NextMFilm/index.php"><button type="button" class="btn btn-danger">Dos siguientes películas de Marvel</button></a>
-    <a target="_blank" href="./Proyecto-RickYMorty/index.php"><button type="button" class="btn btn-success">Rick Y Morty</button></a>
+    <a href="./Proyecto-NextMFilm/index.php"><button type="button" class="btn btn-info">Siguiente película de Marvel</button></a>
+    <a href="./Proyecto-2NextMFilm/index.php"><button type="button" class="btn btn-danger">Dos siguientes películas de Marvel</button></a>
+    <a href="./Proyecto-RickYMorty/index.php"><button type="button" class="btn btn-success">Rick Y Morty</button></a>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

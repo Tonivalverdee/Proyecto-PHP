@@ -4,3 +4,8 @@ body {
     color: white;
     text-align: center;
 }
+#boton {
+    position: fixed;
+    right: 10px;
+    top: 2%;
+}
