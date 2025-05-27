@@ -64,12 +64,6 @@ Proyecto-PHP/
 - **Renderizado Dinámico**: Presentación de información en la interfaz web basada en los datos obtenidos.
 - **Diseño Responsivo**: Interfaces adaptables a diferentes tamaños de pantalla.
 
-## 📷 Capturas de Pantalla
-
-![Integración de API](API.png)
-
-*Imagen ilustrativa de la integración con las APIs.*
-
 ## 📝 Contribuciones
 
 Las contribuciones son bienvenidas. Si deseas mejorar alguna funcionalidad o agregar nuevas características, por favor sigue estos pasos:
