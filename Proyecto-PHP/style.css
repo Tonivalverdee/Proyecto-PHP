@@ -1,0 +1,11 @@
+body {
+    margin-top: 2%;
+    background-color: #121212;
+    color: white;
+    text-align: center;
+}
+#boton {
+    position: fixed;
+    right: 10px;
+    top: 2%;
+}
