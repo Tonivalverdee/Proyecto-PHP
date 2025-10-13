@@ -4,4 +4,5 @@ services:
     env: docker
     plan: free
     buildCommand: ""
-    startCommand: "php -S 0.0.0.0:10000"
+    startCommand: "php -S 0.0.0.0:10000 -t /opt/render/project/src"
+
